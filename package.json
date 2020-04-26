@@ -1,0 +1,21 @@
+{
+  "name": "video-chat-node-app",
+  "version": "2.0.0",
+  "description": "VideoChatNodeApp",
+  "main": "main.js",
+  "scripts": {
+    "watch": "npx watchify ./public/main.js -o ./public/bundle.js"
+  },
+  "author": {
+    "name": "Shagun Jain"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "simple-peer": "^9.7.0",
+    "socket.io": "^2.3.0",
+    "watchify": "^3.11.1"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}

@@ -1,0 +1,2 @@
+H:\R n D work\Node Application\VideoChatNodeApp\obj\Release\VideoChatNodeApp.njsproj.CoreCompileInputs.cache
+H:\R n D work\Node Application\VideoChatNodeApp\bin\Microsoft.NodejsTools.WebRole.dll

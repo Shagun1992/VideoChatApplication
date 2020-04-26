@@ -1,0 +1,3 @@
+H:\R n D work\Node Application\VideoChatNodeApp\obj\Debug\VideoChatNodeApp.njsproj.CoreCompileInputs.cache
+H:\R n D work\Node Application\VideoChatNodeApp\bin\Microsoft.NodejsTools.WebRole.dll
+H:\R n D work\Node Application\VideoChatNodeApp\obj\Debug\VideoChatNodeApp.njsprojAssemblyReference.cache
